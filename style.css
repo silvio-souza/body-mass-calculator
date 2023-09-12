@@ -11,11 +11,11 @@ html {
     font-family: roboto, sans-serif;
     color: #253146;
     width: 100vw;
-    background-color: #d7e7fe;
+    background-image: linear-gradient(to right, #f5fafa , #d7e7fe);
 }
 
 main {
-    margin: 20px;
+    padding: 20px;
 }
 
 p {
@@ -36,6 +36,8 @@ p {
     
     gap: 20px;
     padding-bottom: 40px;
+
+    background-color: blue;
 }
 
 .intro img {
